@@ -1,0 +1,28 @@
+{
+  "name": "@felixchristo/simple-bmicalculator",
+  "version": "1.0.0",
+  "description": "Calculator to calculate BMI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "BMI"
+  ],
+  "author": "Felix Christo",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "*",
+    "typescript": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixchristo24/NPM-BMICalulator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felixchristo24/NPM-BMICalulator/issues"
+  },
+  "homepage": "https://github.com/felixchristo24/NPM-BMICalulator#readme"
+}
