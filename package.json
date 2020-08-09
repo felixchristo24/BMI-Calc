@@ -1,8 +1,8 @@
 {
-  "name": "simple-bmicalculator",
-  "version": "1.0.1",
+  "name": "bmi-calc",
+  "version": "1.0.0",
   "description": "Calculator to calculate BMI",
-  "main": "index/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"

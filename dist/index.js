@@ -4,7 +4,7 @@ exports.BMI = void 0;
 var BMI = /** @class */ (function () {
     function BMI() {
     }
-    BMI.prototype.bmiCalculator = function (weight, height) {
+    BMI.prototype.calculate = function (weight, height) {
         var bmi = weight / (Math.pow(height, 2));
         if (bmi < 18.5) {
             return "Underweight";

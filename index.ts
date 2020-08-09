@@ -1,6 +1,6 @@
 export class BMI {
 
-    public bmiCalculator(weight: number, height: number) {
+    public calculate(weight: number, height: number) {
         let bmi = weight / (height ** 2);
         if (bmi < 18.5) {
             return "Underweight";
