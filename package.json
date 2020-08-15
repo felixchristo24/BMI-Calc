@@ -1,6 +1,6 @@
 {
   "name": "bmi-calcs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculator to calculate BMI",
   "main": "dist/index.js",
   "scripts": {
